@@ -1,0 +1,25 @@
+@import '~bootstrap/scss/bootstrap';
+
+body {
+  background: rgba(85, 85, 85, 0.562);
+}
+.me-img {
+  width: 40px;
+  height: 40px;
+  border: 1px solid #000;
+  border-radius: 15px;
+}
+
+.home-mein {
+  div {
+    margin: 20px 0px;
+  }
+  padding: 0px 20px;
+  text-align: center;
+  &__home-content {
+  }
+  &__home-title {
+  }
+  &__home-text {
+  }
+}
